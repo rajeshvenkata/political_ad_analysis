@@ -7,3 +7,5 @@ Algorithm has three main steps
 1)Converting videos to text using google web speech API. Created a web application to use this service
 2)Process the converted video text by removing stop words and performign Natural Language Processing.
 3)Classifying the videos. This has been achieved by determining Extended Jaccard Similarity index between each video and dictionaries (attacking & defending)
+
+--This was a group project in Database course
